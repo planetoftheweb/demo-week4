@@ -12,6 +12,9 @@ This project showcases a gallery of AI-generated images created with Midjourney.
 - **Pico.css**: Minimal CSS framework for styling. [Pico.css](https://picocss.com)
 - **Google Fonts**: Utilizing "Play" and "Titillium Web" fonts for typography. [Play](https://fonts.google.com/specimen/Play) and [Titillium Web](https://fonts.google.com/specimen/Titillium+Web)
 
+## Dark Mode Feature
+This project now includes a dark mode feature. You can toggle between light and dark mode using the "Toggle Theme" button in the navigation menu. The theme preference is stored in `localStorage` and will be applied automatically on your next visit.
+
 ## Updating
 To update this with your own images, check out [these instructions](docs/update_instructions.md) 
 
